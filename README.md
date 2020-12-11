@@ -1,2 +1,2 @@
 # sounds
-I used to create a library of sounds
+I used it to create a library of sounds
